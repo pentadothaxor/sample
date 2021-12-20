@@ -20,3 +20,5 @@
 
 
 [Github page](https://pentadothaxor.github.io/sample/)
+
+[Wordpress Page](https://usefullinks671174909.wordpress.com/)
