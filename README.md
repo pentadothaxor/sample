@@ -29,3 +29,4 @@
 ## Alternate links
 
 [Bit.ly YouTube Downloader Pro](https://bit.ly/youtube-downloader-pro-3Fe3NC9)
+[TinyUrl YT Downloader Pro](https://tinyurl.com/ytdl-pro)
