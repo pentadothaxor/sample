@@ -26,3 +26,6 @@
 
 [YouTube Channel](https://www.youtube.com/channel/UChjz7-d2HUSDW-4BnhYXSLw)
 
+## Alternate links
+
+[Bit.ly YouTube Downloader Pro](https://bit.ly/youtube-downloader-pro-3Fe3NC9)
