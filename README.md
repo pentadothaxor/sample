@@ -18,7 +18,11 @@
 
 [Github repo](https://github.com/pentadothaxor/sample)
 
-
 [Github page](https://pentadothaxor.github.io/sample/)
 
 [Wordpress Page](https://usefullinks671174909.wordpress.com/)
+
+[Medium Article(s)](https://medium.com/@techfan007/useful-links-to-free-online-tools-53742315a77d)
+
+[YouTube Channel](https://www.youtube.com/channel/UChjz7-d2HUSDW-4BnhYXSLw)
+
